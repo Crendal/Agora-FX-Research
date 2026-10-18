@@ -1,0 +1,563 @@
+[
+  {
+    "id": "2026-Weekly FX",
+    "year": 2026,
+    "edition": null,
+    "period": "Oct 05–09, 2026",
+    "title": "Weekly FX Market Review — Macro, Flow & Positioning",
+    "summary": "Moderate USD/KRW upside bias: foreign equity selling, overseas investment and higher yields vs exporter dollar supply. FX options 25Δ risk reversal and resident FX deposits. LinkedIn company feed; direct-post URL not independently recovered.",
+    "url": "https://www.linkedin.com/company/agora-re-search/posts/?feedView=all",
+    "kind": "featured",
+    "tags": [
+      "USD/KRW",
+      "FX Flows",
+      "FX Options"
+    ],
+    "linktype": "feed"
+  },
+  {
+    "id": "2026-With Lens",
+    "year": 2026,
+    "edition": null,
+    "period": "Sep 11, 2026",
+    "title": "With Lens #5 — Where the Dollar’s Weakness Is Real, and Where It’s Priced",
+    "summary": "Authorship credited to Seong Kyu Lee. USD/JPY and USD/KRW option skew, implied-versus-realized volatility, NPS hedging proxy, FX deposits and gamma positioning.",
+    "url": "https://www.linkedin.com/posts/agora-re-search_revised-activity-7505114523456946176-jW0j",
+    "kind": "authored",
+    "tags": [
+      "FX Options",
+      "USD/KRW",
+      "USD/JPY",
+      "Quant"
+    ],
+    "linktype": "direct"
+  },
+  {
+    "id": "2026-45",
+    "year": 2026,
+    "edition": 45,
+    "period": "Sep 28–Oct 02, 2026",
+    "title": "Quarter-End FX Supply vs. Long-End Rate Stress",
+    "summary": "Exporter dollar selling contained USD/KRW despite a Treasury term-premium shock and weaker U.S. payrolls.",
+    "url": "https://www.linkedin.com/company/agora-re-search/posts/?feedView=all",
+    "kind": "weekly",
+    "tags": [
+      "USD/KRW",
+      "FX Flows",
+      "Rates"
+    ],
+    "linktype": "feed"
+  },
+  {
+    "id": "2026-44",
+    "year": 2026,
+    "edition": 44,
+    "period": "Sep 21–25, 2026",
+    "title": "KRW Exporter Flows & Yen Intervention Risk",
+    "summary": "Exporter-driven supply supported KRW while resilient U.S. activity lifted rates and the dollar; JPY reversed on intervention concerns.",
+    "url": "https://www.linkedin.com/company/agora-re-search/posts/?feedView=all",
+    "kind": "weekly",
+    "tags": [
+      "USD/KRW",
+      "FX Flows",
+      "USD/JPY"
+    ],
+    "linktype": "feed"
+  },
+  {
+    "id": "2026-43",
+    "year": 2026,
+    "edition": 43,
+    "period": "Sep 14–18, 2026",
+    "title": "FOMC Repricing, BOJ & USD/KRW Rebound",
+    "summary": "USD/KRW rebounded sharply around Fed and BOJ decisions, importer demand and foreign equity outflows.",
+    "url": "https://www.linkedin.com/posts/agora-re-search_43-weekly-publish09140918pdf-activity-7507583763921580032-2poM",
+    "kind": "weekly",
+    "tags": [
+      "USD/KRW",
+      "Central Banks",
+      "USD/JPY"
+    ],
+    "linktype": "direct"
+  },
+  {
+    "id": "2026-42",
+    "year": 2026,
+    "edition": 42,
+    "period": "Sep 07–11, 2026",
+    "title": "Oil-Led Rate Shock and KRW Resilience",
+    "summary": "KRW strength against hawkish Fed repricing; exporter supply, yen movements and 10Y rate pressure.",
+    "url": "https://www.linkedin.com/company/agora-re-search/posts/?feedView=all",
+    "kind": "weekly",
+    "tags": [
+      "USD/KRW",
+      "Rates",
+      "FX Flows"
+    ],
+    "linktype": "feed"
+  },
+  {
+    "id": "2026-41",
+    "year": 2026,
+    "edition": 41,
+    "period": "Aug 31–Sep 04, 2026",
+    "title": "KRW Recovery on Exporter Selling & Yen Strength",
+    "summary": "USD/KRW fell to around 1,350 as exporter dollar sales and yen strength supported the won.",
+    "url": "https://www.linkedin.com/posts/agora-re-search_41-weekly-publish08310904-activity-7504911880306593792-NRVO",
+    "kind": "weekly",
+    "tags": [
+      "USD/KRW",
+      "FX Flows",
+      "USD/JPY"
+    ],
+    "linktype": "direct"
+  },
+  {
+    "id": "2026-40",
+    "year": 2026,
+    "edition": 40,
+    "period": "Aug 24–28, 2026",
+    "title": "Month-End Exporter Supply Offsets USD Demand",
+    "summary": "USD/KRW declined toward 1,372 as exporter selling outweighed custody dollar demand; Korea and U.S. policy paths diverged.",
+    "url": "https://www.linkedin.com/posts/agora-re-search_40weekly-publish08240828pdf-activity-7499852948710162432-1w-n",
+    "kind": "weekly",
+    "tags": [
+      "USD/KRW",
+      "FX Flows",
+      "Central Banks"
+    ],
+    "linktype": "direct"
+  },
+  {
+    "id": "2026-39",
+    "year": 2026,
+    "edition": 39,
+    "period": "Aug 17–21, 2026",
+    "title": "USD/KRW Breaks Below 1,400",
+    "summary": "Exporter and offshore flows drove a break below 1,400 as market positioning shifted from buying dips to selling rallies.",
+    "url": "https://www.linkedin.com/company/agora-re-search/posts/?feedView=all",
+    "kind": "weekly",
+    "tags": [
+      "USD/KRW",
+      "FX Flows"
+    ],
+    "linktype": "feed"
+  },
+  {
+    "id": "2026-38",
+    "year": 2026,
+    "edition": 38,
+    "period": "Aug 10–14, 2026",
+    "title": "Fed-Hike Repricing & Asia FX",
+    "summary": "Softer U.S. inflation and retail sales weighed on the dollar while KRW drew partial support from equity inflows.",
+    "url": "https://www.linkedin.com/posts/agora-re-search_agora-weekly-market-review-week-of-aug-activity-7495147905478057984-Pjt2",
+    "kind": "weekly",
+    "tags": [
+      "USD/KRW",
+      "Rates",
+      "Macro"
+    ],
+    "linktype": "direct"
+  },
+  {
+    "id": "2026-37",
+    "year": 2026,
+    "edition": 37,
+    "period": "Aug 03–07, 2026",
+    "title": "Policy Repricing & FX Heatmap",
+    "summary": "Return of the weekly cross-asset series with expanded FX heatmap visualization and currency monitoring.",
+    "url": "https://www.linkedin.com/posts/agora-re-search_37-weekly-publish08030807pdf-activity-7492606905207386113-gatM",
+    "kind": "weekly",
+    "tags": [
+      "FX Heatmap",
+      "Macro"
+    ],
+    "linktype": "direct"
+  },
+  {
+    "id": "2026-36",
+    "year": 2026,
+    "edition": 36,
+    "period": "May 25–29, 2026",
+    "title": "Geopolitical Risk, Dollar & USD/KRW",
+    "summary": "KRW sensitive to foreign equity outflows and two-way geopolitical headlines, within a volatile 1,490–1,510 trading range.",
+    "url": "https://www.linkedin.com/posts/agora-re-search_36-wkly-report05250529agora-activity-7467166564090314752-33yZ",
+    "kind": "weekly",
+    "tags": [
+      "USD/KRW",
+      "FX Flows",
+      "Macro"
+    ],
+    "linktype": "direct"
+  },
+  {
+    "id": "2026-34",
+    "year": 2026,
+    "edition": 34,
+    "period": "May 11–15, 2026",
+    "title": "USD Strength, Oil Inflation & Regional FX",
+    "summary": "USD/JPY approached intervention-sensitive levels; USD/KRW moved toward 1,500 amid oil prices and equity outflows.",
+    "url": "https://www.linkedin.com/posts/agora-re-search_34-wkly-report05110515agora-activity-7462097121853280256-34YJ",
+    "kind": "weekly",
+    "tags": [
+      "USD/KRW",
+      "USD/JPY",
+      "Rates"
+    ],
+    "linktype": "direct"
+  },
+  {
+    "id": "2026-32",
+    "year": 2026,
+    "edition": 32,
+    "period": "Apr 27–May 01, 2026",
+    "title": "FX Intervention Risk amid Oil Shock",
+    "summary": "Dollar direction and yen intervention expectations shifted alongside inflation repricing and oil-price pressure.",
+    "url": "https://www.linkedin.com/posts/agora-re-search_32-wkly-report04270501agora-activity-7461086176448352258-O2LO",
+    "kind": "weekly",
+    "tags": [
+      "USD/JPY",
+      "Central Banks",
+      "Macro"
+    ],
+    "linktype": "direct"
+  },
+  {
+    "id": "2026-30",
+    "year": 2026,
+    "edition": 30,
+    "period": "Apr 13–17, 2026",
+    "title": "USD Safe-Haven Premium Unwinds",
+    "summary": "Dollar weakness accompanied declining oil prices and tentative U.S.–Iran de-escalation.",
+    "url": "https://www.linkedin.com/posts/agora-re-search_30-wkly-report04130417agora-activity-7461085957237317632--95L",
+    "kind": "weekly",
+    "tags": [
+      "Macro",
+      "Rates"
+    ],
+    "linktype": "direct"
+  },
+  {
+    "id": "2026-28",
+    "year": 2026,
+    "edition": 28,
+    "period": "Mar 30–Apr 03, 2026",
+    "title": "Risk Sentiment, USD and Yen Intervention",
+    "summary": "The dollar softened then regained support on Middle East headlines; JPY intervention risk intensified near 160.",
+    "url": "https://www.linkedin.com/posts/agora-re-search_28-wkly-report03300403agora-activity-7461085763863179264-3-RI",
+    "kind": "weekly",
+    "tags": [
+      "USD/JPY",
+      "Macro"
+    ],
+    "linktype": "direct"
+  },
+  {
+    "id": "2026-27",
+    "year": 2026,
+    "edition": 27,
+    "period": "Mar 23–27, 2026",
+    "title": "KRW Stress & National Pension Hedging",
+    "summary": "Asia FX vulnerability to oil-import shocks; NPS strategic hedging and won weakness featured in the currency review.",
+    "url": "https://www.linkedin.com/posts/agora-re-search_27-wkly-report03230327agora-activity-7461085656216154112-yPjV",
+    "kind": "weekly",
+    "tags": [
+      "USD/KRW",
+      "Institutional Hedging",
+      "Macro"
+    ],
+    "linktype": "direct"
+  },
+  {
+    "id": "2026-25",
+    "year": 2026,
+    "edition": 25,
+    "period": "Mar 09–16, 2026",
+    "title": "Oil Shock and Broad Dollar Strength",
+    "summary": "Safe-haven demand and energy inflation supported USD against energy-import-sensitive currencies.",
+    "url": "https://www.linkedin.com/posts/agora-re-search_25-wkly-report03090316agora-activity-7461085316192317440-CZWQ",
+    "kind": "weekly",
+    "tags": [
+      "Macro",
+      "Rates"
+    ],
+    "linktype": "direct"
+  },
+  {
+    "id": "2026-24",
+    "year": 2026,
+    "edition": 24,
+    "period": "Mar 02–06, 2026",
+    "title": "USD/KRW Tests 1,500 as Energy Risk Rises",
+    "summary": "Oil-linked risk aversion led to broad USD buying and Asia FX underperformance; USD/KRW briefly crossed 1,500.",
+    "url": "https://www.linkedin.com/posts/agora-re-search_24-wkly-report03020306agora-activity-7461085160671899648-Tw1r",
+    "kind": "weekly",
+    "tags": [
+      "USD/KRW",
+      "Macro"
+    ],
+    "linktype": "direct"
+  },
+  {
+    "id": "2026-23",
+    "year": 2026,
+    "edition": 23,
+    "period": "Feb 23–27, 2026",
+    "title": "Tariff Policy, USD and Asia FX Divergence",
+    "summary": "Trade-policy uncertainty affected safe-haven USD premia while BOJ, BOK and China policy cycles shaped regional FX.",
+    "url": "https://www.linkedin.com/posts/agora-re-search_23-wkly-report02230227agora-activity-7461085069256859648-5A1u",
+    "kind": "weekly",
+    "tags": [
+      "Central Banks",
+      "Macro"
+    ],
+    "linktype": "direct"
+  },
+  {
+    "id": "2026-22",
+    "year": 2026,
+    "edition": 22,
+    "period": "Feb 16–20, 2026",
+    "title": "DXY Recovery & USD/KRW Near 1,450",
+    "summary": "Hawkish Fed minutes supported the dollar while offshore supply limited won weakness around 1,450.",
+    "url": "https://www.linkedin.com/posts/agora-re-search_22-wkly-report02160220agora-activity-7461084958657466368-xo2s",
+    "kind": "weekly",
+    "tags": [
+      "USD/KRW",
+      "FX Flows",
+      "USD/JPY"
+    ],
+    "linktype": "direct"
+  },
+  {
+    "id": "2026-21",
+    "year": 2026,
+    "edition": 21,
+    "period": "Feb 09–13, 2026",
+    "title": "FX Response to Labor and CPI Releases",
+    "summary": "USD and regional currency trading remained data-sensitive as U.S. inflation and labor signals shifted rate expectations.",
+    "url": "https://www.linkedin.com/posts/agora-re-search_21-wkly-report02090213agora-activity-7429033373131542529-hs2K",
+    "kind": "weekly",
+    "tags": [
+      "Rates",
+      "Macro"
+    ],
+    "linktype": "direct"
+  },
+  {
+    "id": "2026-20",
+    "year": 2026,
+    "edition": 20,
+    "period": "Feb 02–08, 2026",
+    "title": "Policy Credibility & Asia FX Differentiation",
+    "summary": "Currency markets traded policy-cycle divergence and country-specific flows rather than broad dollar beta.",
+    "url": "https://www.linkedin.com/posts/agora-re-search_agora-weekly-market-review-week-of-feb-activity-7427272672478273536-D5qh",
+    "kind": "weekly",
+    "tags": [
+      "Macro",
+      "Central Banks"
+    ],
+    "linktype": "direct"
+  },
+  {
+    "id": "2026-19",
+    "year": 2026,
+    "edition": 19,
+    "period": "Jan 26–30, 2026",
+    "title": "FX Positioning & Korea Tariff Headlines",
+    "summary": "KRW initially strengthened before renewed volatility tied to Korea-U.S. trade policy and positioning.",
+    "url": "https://www.linkedin.com/posts/agora-re-search_19-wkly-report01260130agorapdf-activity-7427263129480245248-Uxdc",
+    "kind": "weekly",
+    "tags": [
+      "USD/KRW",
+      "FX Flows",
+      "Macro"
+    ],
+    "linktype": "direct"
+  },
+  {
+    "id": "2026-16",
+    "year": 2026,
+    "edition": 16,
+    "period": "Jan 05–09, 2026",
+    "title": "U.S. Data and Early-Year USD Strength",
+    "summary": "Resurgent USD, KRW resident outflows and policy-sensitive JPY defined an event-driven start to 2026.",
+    "url": "https://www.linkedin.com/posts/agora-re-search_16-wkly-report01050109agora-activity-7417185052364550145-gopS",
+    "kind": "weekly",
+    "tags": [
+      "USD/KRW",
+      "USD/JPY",
+      "Macro"
+    ],
+    "linktype": "direct"
+  },
+  {
+    "id": "2025-15",
+    "year": 2025,
+    "edition": 15,
+    "period": "Dec 29, 2025–Jan 02, 2026",
+    "title": "Year-End FX Liquidity & 2026 Positioning",
+    "summary": "Thin markets and rebalancing dominated early-year FX and rate-curve behavior.",
+    "url": "https://www.linkedin.com/posts/gunwoopark0607_15-wkly-report12290102agora-activity-7414156619590062080-XVkH",
+    "kind": "weekly",
+    "tags": [
+      "Macro",
+      "Rates"
+    ],
+    "linktype": "repost"
+  },
+  {
+    "id": "2025-14",
+    "year": 2025,
+    "edition": 14,
+    "period": "Dec 15–19, 2025",
+    "title": "BOJ Credibility Shock & FX Liquidity Management",
+    "summary": "Japan’s rate hike without firm forward guidance triggered yen weakness; Korea focused on reserve and NPS FX funding tools.",
+    "url": "https://www.linkedin.com/posts/agora-re-search_14-wkly-report12151219agora-activity-7409672740464558080-xbGp",
+    "kind": "weekly",
+    "tags": [
+      "USD/JPY",
+      "Institutional Hedging",
+      "Central Banks"
+    ],
+    "linktype": "direct"
+  },
+  {
+    "id": "2025-13",
+    "year": 2025,
+    "edition": 13,
+    "period": "Dec 08–12, 2025",
+    "title": "Fed Cut and Regional FX Divergence",
+    "summary": "Post-FOMC USD weakness contrasted with KRW softness and CNY/JPY policy divergences.",
+    "url": "https://www.linkedin.com/company/agora-re-search/posts/?feedView=all",
+    "kind": "weekly",
+    "tags": [
+      "USD/KRW",
+      "Central Banks"
+    ],
+    "linktype": "feed"
+  },
+  {
+    "id": "2025-12",
+    "year": 2025,
+    "edition": 12,
+    "period": "Dec 01–05, 2025",
+    "title": "FOMC Expectations and FX Policy Divergence",
+    "summary": "Currency moves reflected diverging BoJ, BoK and Fed signals ahead of the December FOMC.",
+    "url": "https://www.linkedin.com/posts/agora-re-search_12-wkly-report12011205agora-activity-7403701863910682624-DZvj",
+    "kind": "weekly",
+    "tags": [
+      "Central Banks",
+      "Rates"
+    ],
+    "linktype": "direct"
+  },
+  {
+    "id": "2025-11",
+    "year": 2025,
+    "edition": 11,
+    "period": "Nov 24–28, 2025",
+    "title": "Central Bank Divergence and Asian FX",
+    "summary": "KRW stabilized around 1,460–1,470, JPY strengthened on BOJ speculation, and CNH reflected Chinese macro weakness.",
+    "url": "https://www.linkedin.com/posts/agora-re-search_11-wkly-report11241128agora-activity-7401964936853381120-vDUT",
+    "kind": "weekly",
+    "tags": [
+      "USD/KRW",
+      "USD/JPY",
+      "Central Banks"
+    ],
+    "linktype": "direct"
+  },
+  {
+    "id": "2025-10",
+    "year": 2025,
+    "edition": 10,
+    "period": "Nov 17–21, 2025",
+    "title": "Cross-Asset Volatility & KRW",
+    "summary": "Weekly cross-asset report with FX review of a fragile KRW and shifted Fed expectations.",
+    "url": "https://www.linkedin.com/posts/gunwoopark0607_10-wkly-report11171121agora-activity-7399094790413434880-RSeR",
+    "kind": "weekly",
+    "tags": [
+      "USD/KRW",
+      "Macro"
+    ],
+    "linktype": "repost"
+  },
+  {
+    "id": "2025-9",
+    "year": 2025,
+    "edition": 9,
+    "period": "Nov 10–14, 2025",
+    "title": "BOK–NPS Swap Expiration & KRW Risk",
+    "summary": "USD/KRW briefly approached 1,475 amid equity outflows, structural offshore demand and expiry of the BOK–NPS arrangement.",
+    "url": "https://www.linkedin.com/posts/agora-re-search_9-wkly-report11101114agora-activity-7396877619587137536-t8bH",
+    "kind": "weekly",
+    "tags": [
+      "USD/KRW",
+      "FX Flows",
+      "Institutional Hedging"
+    ],
+    "linktype": "direct"
+  },
+  {
+    "id": "2025-8",
+    "year": 2025,
+    "edition": 8,
+    "period": "Nov 03–07, 2025",
+    "title": "Structural Dollar Demand and KRW Weakness",
+    "summary": "KRW underperformed even as USD softened, amid foreign equity exits and resident overseas investment.",
+    "url": "https://www.linkedin.com/posts/agora-re-search_8-wkly-report11031107agora-activity-7393538107461025793-jczm",
+    "kind": "weekly",
+    "tags": [
+      "USD/KRW",
+      "FX Flows"
+    ],
+    "linktype": "direct"
+  },
+  {
+    "id": "2025-7",
+    "year": 2025,
+    "edition": 7,
+    "period": "Oct 27–31, 2025",
+    "title": "Exporter Flows & USD/KRW Stabilization",
+    "summary": "USD/KRW eased into the 1,420s as exporter supply met capital inflows, while hawkish Fed messaging sustained volatility.",
+    "url": "https://www.linkedin.com/posts/gunwoopark0607_7-wkly-report10271031agora-activity-7390772205166637056-0HWl",
+    "kind": "weekly",
+    "tags": [
+      "USD/KRW",
+      "FX Flows"
+    ],
+    "linktype": "repost"
+  },
+  {
+    "id": "2025-6",
+    "year": 2025,
+    "edition": 6,
+    "period": "Oct 20–24, 2025",
+    "title": "FOMC Pricing, USD/KRW & Cross-Currency Liquidity",
+    "summary": "KRW traded around 1,430 while the Fed cut outlook and funding liquidity influenced regional FX.",
+    "url": "https://www.linkedin.com/posts/agora-re-search_6-wkly-report10201024agora-activity-7388352081318830080-XiO_",
+    "kind": "weekly",
+    "tags": [
+      "USD/KRW",
+      "Rates",
+      "Central Banks"
+    ],
+    "linktype": "direct"
+  },
+  {
+    "id": "2025-5",
+    "year": 2025,
+    "edition": 5,
+    "period": "Oct 13–17, 2025",
+    "title": "Policy Repricing and Dollar Direction",
+    "summary": "Early weekly cross-asset report capturing Treasury volatility and the interplay between monetary policy and FX.",
+    "url": "https://www.linkedin.com/posts/gunwoopark0607_5-wkly-report10131017agora-activity-7385701839968768000-WgzS",
+    "kind": "weekly",
+    "tags": [
+      "Rates",
+      "Macro"
+    ],
+    "linktype": "repost"
+  }
+]
